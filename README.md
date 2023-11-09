@@ -1,2 +1,16 @@
-# RAPTOR
-Rapid Analysis for Plasma Turbulence Or RAPTOR
+```
+    _____     .       .    _ ___  _______  _____   _____     
+   |  __ \   /'(  _  )'\  |  __ \|__   __|/     \ |  __ \    
+   | |__) | / . \/v\/ . \ | |__) |  | |  /   _   \| |__) |   
+   |  _  / /  _)_`-'_(_  \| .___/   | | |   (_)   |  _  /    
+   | | \ \/.-~   ).(   ~-.\ |       | |  \       /| | \ \    
+   |_|  \/'     /\_/\     `\|       |_|   \_____/ |_|  \_\   
+             /| "' '" |\                       
+```
+
+Rapid Analysis for Plasma Turbulence and Orbital Reconnaissance
+                          
+
+
+
+
