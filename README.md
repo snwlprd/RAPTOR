@@ -1,2 +1,2 @@
 # RAPTOR
-Rapid Analysis for Plasma Turbulence O R
+Rapid Analysis for Plasma Turbulence Or RAPTOR
