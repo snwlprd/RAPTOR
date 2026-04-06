@@ -8,7 +8,7 @@
              /| "' '" |\                       
 ```
 
-Rapid Analysis for Plasma Turbulence Or Raptor
+Rapid Analysis for Plasma Turbulence Or RAPTOR
                           
 
 
